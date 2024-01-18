@@ -5,8 +5,8 @@ export default function Homepage(): JSX.Element {
         <>
             <style jsx>{`
                 .eezee{
-                    color: "#2A64DB";
-                    font-size: "16px";
+                    color: #2A64DB;
+                    font-size: 16px;
                 }
             `}</style>
 
